@@ -1,4 +1,4 @@
-package com.kita.first.repeat;
+package com.kita.first.level2;
 
 public class Mission6_3 {
 	public static void main(String[] args) {

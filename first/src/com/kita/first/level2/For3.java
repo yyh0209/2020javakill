@@ -1,4 +1,4 @@
-package com.kita.first.repeat;
+package com.kita.first.level2;
 import java.util.Scanner;
 public class For3 {
 	public static void main(String[] args) {

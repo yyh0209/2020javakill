@@ -1,4 +1,4 @@
-package com.kita.first.repeat;
+package com.kita.first.level2;
 import java.util.Scanner;
 /*
  * 입력값을 받아서
