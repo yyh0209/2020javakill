@@ -24,7 +24,7 @@ public class NumberBaseball {
 		int[] myArr=new int[Len];//내가 던지는 볼
 		int iStrike;//스트라이크횟수 System.out.println("S :"+iStrike);
 		int iBall=0;//볼 횟수 System.out.println("B :"+iBall);
-		int iOut=0;//아웃 횟수 System.out.println("B :"+iOut);
+		int iOut=0;//아웃 횟수 System.out.println("O :"+iOut);
 		while(true) {
 			iStrike=0;
 			iBall=0;
